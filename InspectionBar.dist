@@ -1,6 +1,6 @@
 # dist file for InspectionBar
-dist /extensions/AntTweakBar/AntTweakBar.dist http://openengine.dk/code/extensions/AntTweakBar/AntTweakBar.dist
-dist /extensions/Inspection/Inspection.dist http://openengine.dk/code/extensions/Inspection/Inspection.dist
+dist /extensions/AntTweakBar/AntTweakBar.dist https://raw.githubusercontent.com/OpenEngineDK/extensions-AntTweakBar/master/AntTweakBar.dist
+dist /extensions/Inspection/Inspection.dist https://raw.githubusercontent.com/OpenEngineDK/extensions-Inspection/master/Inspection.dist
 
-darcs      /extensions/InspectionBar            http://openengine.dk/code/extensions/InspectionBar
-darcs-dev  /extensions/InspectionBar            fh.daimi.au.dk:/users/cgd/code/extensions/InspectionBar
+git      /extensions/InspectionBar            https://github.com/OpenEngineDK/extensions-InspectionBar.git
+git-dev  /extensions/InspectionBar            git@github.com:OpenEngineDK/extensions-InspectionBar.git
